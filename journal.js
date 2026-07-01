@@ -4,5 +4,5 @@ function greet(name) {
 }
 
 function sayHello() {
-  return "Hello, world!";
+  console.log("Hello, world!");
 }
